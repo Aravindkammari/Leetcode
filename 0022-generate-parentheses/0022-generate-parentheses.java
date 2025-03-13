@@ -8,11 +8,7 @@ class Solution {
     }
     void helper(char[] ch, int i, int open, int close){
         if(i == ch.length){
-            String str = "";
-            for(char c : ch){
-                str += c;
-            }
-            list.add(str);
+            list.add(new String(ch));
             return;
         }
         if(open > 0){

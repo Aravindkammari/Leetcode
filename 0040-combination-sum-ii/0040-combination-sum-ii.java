@@ -6,13 +6,13 @@ class Solution {
         return mainList;
     }
     void helper(List<List<Integer>> mainList, ArrayList<Integer> list, int[] c, int target, int i){
-        if(target < 0)return;
         if(target == 0){
             mainList.add(new ArrayList<>(list));
             return;
         }
         for(int j = i; j < c.length; j++){
             if(j > i && c[j] == c[j-1])continue;
+            if(target < c[j])break;
             list.add(c[j]);
             helper(mainList, list, c, target-c[j], j+1);
             list.remove(list.size()-1);

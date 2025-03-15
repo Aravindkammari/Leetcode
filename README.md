@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aravindkammari/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aravindkammari/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aravindkammari/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Aravindkammari/DSA/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Aravindkammari/DSA/tree/master/0377-combination-sum-iv) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aravindkammari/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aravindkammari/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aravindkammari/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aravindkammari/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aravindkammari/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Aravindkammari/DSA/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/Aravindkammari/DSA/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |

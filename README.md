@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aravindkammari/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aravindkammari/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Aravindkammari/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aravindkammari/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aravindkammari/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aravindkammari/DSA/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Aravindkammari/DSA/tree/master/0377-combination-sum-iv) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aravindkammari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aravindkammari/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Aravindkammari/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Aravindkammari/DSA/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0800-letter-case-permutation](https://github.com/Aravindkammari/DSA/tree/master/0800-letter-case-permutation) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Aravindkammari/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Aravindkammari/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aravindkammari/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aravindkammari/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aravindkammari/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aravindkammari/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Aravindkammari/DSA/tree/master/0216-combination-sum-iii) |
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aravindkammari/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aravindkammari/DSA/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/Aravindkammari/DSA/tree/master/0800-letter-case-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Aravindkammari/DSA/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Aravindkammari/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

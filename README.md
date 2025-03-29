@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Aravindkammari/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aravindkammari/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aravindkammari/DSA/tree/master/0216-combination-sum-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Aravindkammari/DSA/tree/master/0377-combination-sum-iv) |
 | [1036-rotting-oranges](https://github.com/Aravindkammari/DSA/tree/master/1036-rotting-oranges) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aravindkammari/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aravindkammari/DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Aravindkammari/DSA/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Aravindkammari/DSA/tree/master/0377-combination-sum-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0516-longest-palindromic-subsequence) |
 ## String
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aravindkammari/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aravindkammari/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting

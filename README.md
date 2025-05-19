@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aravindkammari/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aravindkammari/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aravindkammari/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3321-type-of-triangle](https://github.com/Aravindkammari/DSA/tree/master/3321-type-of-triangle) |
 | [3483-alternating-groups-ii](https://github.com/Aravindkammari/DSA/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -112,8 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Aravindkammari/DSA/tree/master/0047-permutations-ii) |
+| [3321-type-of-triangle](https://github.com/Aravindkammari/DSA/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Aravindkammari/DSA/tree/master/0045-jump-game-ii) |
+## Math
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/Aravindkammari/DSA/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->

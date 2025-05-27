@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aravindkammari/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aravindkammari/DSA/tree/master/0045-jump-game-ii) |
+| [0072-edit-distance](https://github.com/Aravindkammari/DSA/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Aravindkammari/DSA/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Aravindkammari/DSA/tree/master/0377-combination-sum-iv) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aravindkammari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aravindkammari/DSA/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Aravindkammari/DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Aravindkammari/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Aravindkammari/DSA/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0516-longest-palindromic-subsequence) |

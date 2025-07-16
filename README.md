@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aravindkammari/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aravindkammari/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aravindkammari/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aravindkammari/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3321-type-of-triangle](https://github.com/Aravindkammari/DSA/tree/master/3321-type-of-triangle) |
 | [3483-alternating-groups-ii](https://github.com/Aravindkammari/DSA/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Aravindkammari/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Aravindkammari/DSA/tree/master/0377-combination-sum-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aravindkammari/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aravindkammari/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Aravindkammari/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String
 |  |

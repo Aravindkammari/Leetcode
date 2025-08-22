@@ -8,8 +8,6 @@ class Solution {
         if(initialColour == color)return image;
         image[sr][sc] = color; 
         while(!q.isEmpty()){
-            int k = q.size();
-            for(int i = 0; i < k; i++){
                 int[] axes = q.poll();
                 int x = axes[0];
                 int y = axes[1];
@@ -21,7 +19,6 @@ class Solution {
                     q.offer(new int[]{nr, nc});
                     image[nr][nc] = color;
                 }
-            }
         }
         return image;
     }

@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Aravindkammari/DSA/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aravindkammari/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0657-robot-return-to-origin](https://github.com/Aravindkammari/DSA/tree/master/0657-robot-return-to-origin) |
 | [0800-letter-case-permutation](https://github.com/Aravindkammari/DSA/tree/master/0800-letter-case-permutation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aravindkammari/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Aravindkammari/DSA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Aravindkammari/DSA/tree/master/0657-robot-return-to-origin) |
 | [3790-fruits-into-baskets-ii](https://github.com/Aravindkammari/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |

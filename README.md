@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aravindkammari/DSA/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/Aravindkammari/DSA/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Aravindkammari/DSA/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Aravindkammari/DSA/tree/master/1036-rotting-oranges) |
 ## Sorting
 |  |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Aravindkammari/DSA/tree/master/3790-fruits-into-baskets-ii) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Aravindkammari/DSA/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Aravindkammari/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

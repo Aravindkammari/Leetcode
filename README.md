@@ -160,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aravindkammari/DSA/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Aravindkammari/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

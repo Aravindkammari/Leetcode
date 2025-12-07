@@ -30,6 +30,7 @@ class Solution {
             int n = q.size();
             int first = 0;
             int last = 0;
+            int minNum = q.peek().num;
             for(int i = 0; i < n; i++){
                 TreeNode curr = q.peek().node;
                 int num = q.peek().num;
@@ -37,10 +38,10 @@ class Solution {
                 if(i == n - 1)last = num;
                 q.poll();
                 if(curr.left != null){
-                    q.offer(new Pair(curr.left, 2 * num + 1));
+                    q.offer(new Pair(curr.left, 2 * num + 1 - minNum));
                 }
                 if(curr.right != null){
-                    q.offer(new Pair(curr.right, 2 * num + 2));
+                    q.offer(new Pair(curr.right, 2 * num + 2 - minNum));
                 }
             }
             maxWidth = Math.max(maxWidth, last - first + 1);

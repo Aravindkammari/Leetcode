@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aravindkammari/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aravindkammari/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aravindkammari/DSA/tree/master/0090-subsets-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aravindkammari/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Aravindkammari/DSA/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Aravindkammari/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aravindkammari/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aravindkammari/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Aravindkammari/DSA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aravindkammari/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aravindkammari/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Aravindkammari/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aravindkammari/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aravindkammari/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aravindkammari/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aravindkammari/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

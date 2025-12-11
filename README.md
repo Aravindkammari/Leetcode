@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Aravindkammari/DSA/tree/master/3321-type-of-triangle) |
 | [3483-alternating-groups-ii](https://github.com/Aravindkammari/DSA/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Aravindkammari/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3531-count-covered-buildings](https://github.com/Aravindkammari/DSA/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aravindkammari/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3790-fruits-into-baskets-ii](https://github.com/Aravindkammari/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aravindkammari/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aravindkammari/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aravindkammari/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3531-count-covered-buildings](https://github.com/Aravindkammari/DSA/tree/master/3531-count-covered-buildings) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aravindkammari/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aravindkammari/DSA/tree/master/0047-permutations-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Aravindkammari/DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3321-type-of-triangle](https://github.com/Aravindkammari/DSA/tree/master/3321-type-of-triangle) |
+| [3531-count-covered-buildings](https://github.com/Aravindkammari/DSA/tree/master/3531-count-covered-buildings) |
 ## Greedy
 |  |
 | ------- |

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aravindkammari/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Aravindkammari/DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3321-type-of-triangle](https://github.com/Aravindkammari/DSA/tree/master/3321-type-of-triangle) |
+| [3433-count-mentions-per-user](https://github.com/Aravindkammari/DSA/tree/master/3433-count-mentions-per-user) |
 | [3483-alternating-groups-ii](https://github.com/Aravindkammari/DSA/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Aravindkammari/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3531-count-covered-buildings](https://github.com/Aravindkammari/DSA/tree/master/3531-count-covered-buildings) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aravindkammari/DSA/tree/master/0047-permutations-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Aravindkammari/DSA/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3321-type-of-triangle](https://github.com/Aravindkammari/DSA/tree/master/3321-type-of-triangle) |
+| [3433-count-mentions-per-user](https://github.com/Aravindkammari/DSA/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Aravindkammari/DSA/tree/master/3531-count-covered-buildings) |
 ## Greedy
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/Aravindkammari/DSA/tree/master/3321-type-of-triangle) |
+| [3433-count-mentions-per-user](https://github.com/Aravindkammari/DSA/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aravindkammari/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Segment Tree
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Aravindkammari/DSA/tree/master/0657-robot-return-to-origin) |
+| [3433-count-mentions-per-user](https://github.com/Aravindkammari/DSA/tree/master/3433-count-mentions-per-user) |
 | [3790-fruits-into-baskets-ii](https://github.com/Aravindkammari/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |

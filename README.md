@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Aravindkammari/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3531-count-covered-buildings](https://github.com/Aravindkammari/DSA/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Aravindkammari/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3606-coupon-code-validator](https://github.com/Aravindkammari/DSA/tree/master/3606-coupon-code-validator) |
 | [3790-fruits-into-baskets-ii](https://github.com/Aravindkammari/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aravindkammari/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3531-count-covered-buildings](https://github.com/Aravindkammari/DSA/tree/master/3531-count-covered-buildings) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aravindkammari/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/Aravindkammari/DSA/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aravindkammari/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Aravindkammari/DSA/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aravindkammari/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/Aravindkammari/DSA/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Aravindkammari/DSA/tree/master/3321-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/Aravindkammari/DSA/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Aravindkammari/DSA/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Aravindkammari/DSA/tree/master/3606-coupon-code-validator) |
 ## Greedy
 |  |
 | ------- |
